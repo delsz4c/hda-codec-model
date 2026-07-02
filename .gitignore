@@ -1,0 +1,27 @@
+# ─── Vivado / xsim project & build artifacts ───
+sim/hda_sim_*/
+sim/hda_synth_*/
+sim/xsim.dir/
+sim/.Xil/
+xsim.dir/
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.wlf
+*.str
+*.dcp
+*.rpt
+*.dai
+*.edif
+sim/dfx_runtime.txt
+
+# ─── Icarus Verilog / generic sim outputs ───
+*.vvp
+*.vcd
+
+# ─── OS / editor ───
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,5 @@
+# Correct GitHub Linguist language statistics
+*.sv  linguist-language=SystemVerilog
+*.svh linguist-language=SystemVerilog
+*.v   linguist-language=SystemVerilog
+*.xdc linguist-language=Tcl
